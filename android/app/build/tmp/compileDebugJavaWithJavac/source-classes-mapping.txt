@@ -1,0 +1,14 @@
+com/rtspplayer/BuildConfig.java
+ com.rtspplayer.BuildConfig
+com/rtspplayer/MainApplication.java
+ com.rtspplayer.MainApplication
+ com.rtspplayer.MainApplication$1
+com/rtspplayer/MainActivity.java
+ com.rtspplayer.MainActivity
+com/rtspplayer/ReactNativeFlipper.java
+ com.rtspplayer.ReactNativeFlipper
+ com.rtspplayer.ReactNativeFlipper$1
+ com.rtspplayer.ReactNativeFlipper$2
+ com.rtspplayer.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
